@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-crash-todo/static/css/main.73d3592a.chunk.css",
+    "main.js": "/react-crash-todo/static/js/main.3efb895e.chunk.js",
+    "main.js.map": "/react-crash-todo/static/js/main.3efb895e.chunk.js.map",
+    "runtime-main.js": "/react-crash-todo/static/js/runtime-main.a9b362c5.js",
+    "runtime-main.js.map": "/react-crash-todo/static/js/runtime-main.a9b362c5.js.map",
+    "static/js/2.8b45bf6f.chunk.js": "/react-crash-todo/static/js/2.8b45bf6f.chunk.js",
+    "static/js/2.8b45bf6f.chunk.js.map": "/react-crash-todo/static/js/2.8b45bf6f.chunk.js.map",
+    "static/js/3.35577321.chunk.js": "/react-crash-todo/static/js/3.35577321.chunk.js",
+    "static/js/3.35577321.chunk.js.map": "/react-crash-todo/static/js/3.35577321.chunk.js.map",
+    "index.html": "/react-crash-todo/index.html",
+    "static/css/main.73d3592a.chunk.css.map": "/react-crash-todo/static/css/main.73d3592a.chunk.css.map",
+    "static/js/2.8b45bf6f.chunk.js.LICENSE.txt": "/react-crash-todo/static/js/2.8b45bf6f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9b362c5.js",
+    "static/js/2.8b45bf6f.chunk.js",
+    "static/css/main.73d3592a.chunk.css",
+    "static/js/main.3efb895e.chunk.js"
+  ]
+}
